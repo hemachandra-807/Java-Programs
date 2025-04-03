@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Recursion_Problems.NthPrimeNum&apos; to &apos;PrimeNthNum&apos;&#x0D;&#x0A;- Original project: &apos;Marathahalli Java Programs&apos;&#x0D;&#x0A;- Original element: &apos;Recursion_Problems.NthPrimeNum&apos;&#x0D;&#x0A;- Renamed element: &apos;Recursion_Problems.PrimeNthNum&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;NthPrimeNum&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Recursion_Problems{NthPrimeNum.java[NthPrimeNum" matchStrategy="1" name="PrimeNthNum" qualified="false" references="true" similarDeclarations="false" stamp="1734357267288" textual="false" version="1.0"/>
+</session>
